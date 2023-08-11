@@ -26,7 +26,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
-public class Rule34Command extends NSFWCommand {
+public class Rule34Command extends NSFWCommand /NSFW
     private Random random;
     private R34Cache cache;
 
